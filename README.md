@@ -1,2 +1,2 @@
 # akkaNetHelloWorld
-Simple project using Akka.NET 
+Sample project using Akka.NET 
